@@ -1,4 +1,5 @@
 version: 0.{build}
+os: Previous Windows Server 2012 R2
 skip_tags: true
 cache: C:\Users\appveyor\AppData\Local\NuGet\Cache
 build_script:
